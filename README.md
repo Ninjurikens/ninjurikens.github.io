@@ -1,2 +1,3 @@
 # ninjurikens.github.io
-website
+This is my website
+Expect crazy stuff (eventually)
