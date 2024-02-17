@@ -40,3 +40,8 @@ ul {
     background: #eddedd;
     height: 100px;
 }
+
+a {
+    font-family: Tahoma;
+    color: #c45a53;
+}
