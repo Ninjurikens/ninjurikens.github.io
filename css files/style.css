@@ -8,7 +8,7 @@ h2 {
     color: #5363ca;
 }
 
-li {
+li.header_li {
     font-family: Verdana;
     color: #5363ca;
     display: inline;
@@ -36,7 +36,7 @@ label {
     margin-bottom: 20px;
 }
 
-ul {
+ul.header_ul {
     background: #eddedd;
     height: 100px;
 }
