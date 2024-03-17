@@ -1,7 +1,35 @@
-h1 {
+/* #header-h1 {
     font-family: Verdana;
     color: #5363ca;
+} */
+
+#header-h1 {
+    font-family: "Happy Monkey";
+    float: left;
+    color: #2102b9;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    font-size: 30px; 
+    line-height: 0px;
+    border-radius: 4px;
 }
+
+#header-a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px; 
+    line-height: 40px;
+    border-radius: 4px;
+}
+
+#header-a:hover {
+    background-color: #0c0142;
+    color: #07e7e7;
+  }
 
 h2 {
     font-family: Verdana;
