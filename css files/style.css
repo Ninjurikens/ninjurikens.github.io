@@ -6,7 +6,7 @@
 #header-h1 {
     font-family: "Happy Monkey";
     float: left;
-    color: #2102b9;
+    color: #e30d5b;
     text-align: center;
     padding: 5px;
     text-decoration: none;
@@ -17,7 +17,7 @@
 
 #header-a {
     float: right;
-    color: black;
+    color: #4185ce;
     text-align: center;
     padding: 12px;
     text-decoration: none;
@@ -27,8 +27,8 @@
 }
 
 #header-a:hover {
-    background-color: #0c0142;
-    color: #07e7e7;
+    background-color: #eec0bd;
+    color: #4185ce;
   }
 
 h2 {
